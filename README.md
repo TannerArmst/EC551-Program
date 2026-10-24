@@ -8,7 +8,7 @@
 **FPGA toolchain:** Xilinx ISE Design Suite 14.7 WebPACK (legacy Xilinx toolchain)  
 **Programming utility:** Xilinx iMPACT
 
-## Project overview
+## Project Overview
 
 This project implements a single-output combinational logic synthesis engine in Python. The program accepts either a Boolean Sum-of-Products (SOP) expression or a graph-based circuit described in a JSON file.
 
