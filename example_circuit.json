@@ -1,0 +1,9 @@
+{
+  "inputs": ["a", "b", "c"],
+  "gates": [
+    {"type": "AND", "inputs": ["a", "b"], "output": "n1"},
+    {"type": "NOT", "inputs": ["c"], "output": "n2"},
+    {"type": "OR", "inputs": ["n1", "n2"], "output": "F"}
+  ],
+  "output": "F"
+}
