@@ -1,6 +1,4 @@
 # EC551-Program
-
-# EC551-Program
 # EC551 Programming Assignment 1: Logic Synthesis Engine
 
 **Course:** EC551 - Advanced Digital Design with Verilog and FPGAs, Fall 2026  
