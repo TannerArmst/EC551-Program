@@ -6,7 +6,7 @@ Review and understand the code before presenting it; adjust this acknowledgment
 to accurately describe any additional assistance used by your team.
 
 Python 3.9+; standard library only. Run: python logic_synthesis.py
-"""
+""
 
 import csv
 import json
